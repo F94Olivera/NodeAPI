@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://facu123:facu123@testingmongo-09afq.gcp.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
+}
